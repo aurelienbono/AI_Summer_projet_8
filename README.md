@@ -4,9 +4,9 @@
 Ce projet vise à détecter la fraude dans les transactions Mobile Money en utilisant des techniques de science des données et de machine learning. Nous analysons les données transactionnelles, les informations des clients, les appareils utilisés et d'autres facteurs pertinents pour identifier et prédire les activités frauduleuses.
 
 ## Structure du Projet
-Le projet est organisé comme suit :
+Le projet est organisé comme suit : 
 
-- `apps/` : Contient les applications ou modules développés pour visualiser et interagir avec les données de fraude.
+- `apps/` :  Contient les applications ou modules développés pour visualiser et interagir avec les données de fraude.
 - `data/` 
   - `train/` : Données utilisées pour entraîner les modèles de détection de fraude.
   - `test/` : Données utilisées pour tester les performances des modèles.
@@ -21,7 +21,7 @@ Le projet est organisé comme suit :
 
 ## Méthodologie
 
-1. **Collecte des données** : Acquisition des données de transaction Mobile Money à partir de sources internes ou de partenariats avec des institutions financières.
+1. **Collecte des données**  : Acquisition des données de transaction Mobile Money à partir de sources internes ou de partenariats avec des institutions financières.
 
 2. **Prétraitement des données** : Nettoyage, fusion et transformation des données pour les rendre compatibles avec l'analyse. Cela inclut la gestion des valeurs manquantes, la normalisation des données et la conversion des formats de données.
 
