@@ -7,7 +7,7 @@ Ce projet vise à détecter la fraude dans les transactions Mobile Money en util
 Le projet est organisé comme suit :
 
 - `apps/` : Contient les applications ou modules développés pour visualiser et interagir avec les données de fraude.
-- `data/`
+- `data/` 
   - `train/` : Données utilisées pour entraîner les modèles de détection de fraude.
   - `test/` : Données utilisées pour tester les performances des modèles.
 - `docs/`
